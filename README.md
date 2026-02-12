@@ -1,4 +1,4 @@
-# P2P Video Call with WebRTC & Socket.io 🚀
+# 🎥 P2P Video Call with WebRTC & Socket.io
 
 A real-time, peer-to-peer video communication application. This project uses **Socket.io** as a signaling server to exchange connection metadata and **WebRTC** to stream video and audio directly between browsers.
 
